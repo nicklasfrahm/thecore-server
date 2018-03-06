@@ -1,0 +1,27 @@
+{
+  "name": "thecore-server",
+  "version": "1.0.0",
+  "description": "thecore-server is the backend to administrate and control facility manufacturing ressources.",
+  "main": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicklasfrahm/thecore-server.git"
+  },
+  "keywords": [
+    "thecore",
+    "server",
+    "iot",
+    "manufacturing",
+    "facility",
+    "ressources"
+  ],
+  "author": "nicklasfrahm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicklasfrahm/thecore-server/issues"
+  },
+  "homepage": "https://github.com/nicklasfrahm/thecore-server#readme"
+}
